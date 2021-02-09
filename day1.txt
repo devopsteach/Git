@@ -1,0 +1,15 @@
+Day - 1
+
+Linux Basic Commands
+
+GIT
+1. Initializing Repo
+2. Staging Files and Commiting them
+3. Undo - Back in time
+4. Assignment -1 
+5. Branching
+6. Assignment -2
+7. Merging
+8. Merge Conflict
+9. Assignment -3
+10. Git Diff
