@@ -11,5 +11,6 @@ Advanced:
 1. Git Ignore
 2. Stash - save & pop
 3. Rebase - (compare with merge)
+	master to feature branch. git rebase feature
 4. Sqash - rewriting commit history)
 	- git rebase -i HEAD~3
