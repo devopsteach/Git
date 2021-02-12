@@ -3,11 +3,14 @@ Git and Github Collaboration:
 2. Github and Push
 3. Pull
 4. Clone
-
+5. Fork
+6. WorkFlow - Pull often
 
 Advanced:
 
 1. Git Ignore
-2. Stash
-3. Rebase
-4. Sqash
+2. Stash - save & pop
+3. Rebase - (compare with merge)
+	master to feature branch. git rebase feature
+4. Sqash - rewriting commit history)
+	- git rebase -i HEAD~3
